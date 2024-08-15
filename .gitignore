@@ -1,0 +1,5 @@
+apn/*
+__pycache__/*
+.vscode/*
+config/*
+.env
